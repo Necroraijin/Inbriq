@@ -20,7 +20,7 @@ Inbriq represents the future of network security, combining advanced machine lea
 ## 🏗️ Architecture
 
 ```
-<img width="1536" height="1024" alt="ChatGPT Image Oct 3, 2025, 12_55_19 PM" src="https://github.com/user-attachments/assets/7f543ce6-1377-47d5-8f13-66169a13a34c" />
+<img width="1536" height="1024" alt="System Architecture" src="system architecture.png" />
 
 ```
 
