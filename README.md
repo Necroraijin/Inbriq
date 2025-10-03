@@ -19,10 +19,10 @@ Inbriq represents the future of network security, combining advanced machine lea
 
 ## 🏗️ Architecture
 
-```
-❮img src="inbriq/system architecture.png" ❯
 
-```
+![System Architecture](./images/system%20architecture.png)
+
+
 
 ## 🚀 Quick Start
 
