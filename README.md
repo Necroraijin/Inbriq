@@ -20,7 +20,7 @@ Inbriq represents the future of network security, combining advanced machine lea
 ## 🏗️ Architecture
 
 ```
-![System Architecture](https://github.com/Necroraijin/Inbriq/blob/main/system%20architecture.png)?raw=true)
+❮img src="inbriq/system architecture.png" ❯
 
 ```
 
